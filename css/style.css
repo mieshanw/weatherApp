@@ -1,0 +1,44 @@
+h1 {
+  line-height:0px;
+}
+body {
+  text-align: center;
+  background: #33E3FF;
+  font-family: 'Bubbler One', sans-serif;
+}
+
+.content-box {
+  background-color: #8859D1;
+  width: 450px;
+  margin: auto;
+  padding: 40px;
+  border-radius:8px;
+}
+
+input[type=search]{
+   width: 300px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('http://www.freeiconspng.com/uploads/search-icon-png-2.png');
+  background-size: 20px 20px;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+
+.btnsearch {
+  height: 46px;
+  width: 100px;
+  color: #FFFFFF;
+  background-color:#33E3FF;
+  border-radius:8px;
+  
+}
+
+h1 {
+  font-size:100px;
+  color: #FFFFFF;
+}
